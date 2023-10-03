@@ -7,7 +7,7 @@
 -  
 Thank you for searching me,😁  its pleasure to me l you find me on github .  just check my github do practice if you want to do some annonymous programs
 
-online time :-  11:00 pm to 2:00 am 
+CP time :-  11:00 pm to 2:00 am 
 <!---
 aniket-oo4/aniket-oo4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
