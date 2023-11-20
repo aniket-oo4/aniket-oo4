@@ -1,7 +1,7 @@
 - 👋 Hey, human programs  welcome to my profile 🤖
 - 
 - 🧠 I’m  such kind of person who's truely love coding  and problem solving    with consistency 🔁
-- 💻 currently pursuing a Tag (Bachelors of computer applications) 🧑‍🎓 for employers to took me into selection process 
+- 💻 currently pursuing a Tag (Bachelors of computer applications) 🧑‍🎓 
 - 💞️ I’m looking to collaborate on software/ website/application developer and share and gain some  extra knowledge as per there experience 
 - 📫 if  you want to reach me then  visit my linkedin profile or send me a  mail ,i will definitely reply you .
 -  
