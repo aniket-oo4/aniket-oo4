@@ -2,8 +2,8 @@
 - ![logo2](https://github.com/aniket-oo4/aniket-oo4/assets/118761872/28dc23f3-9605-43b7-a2ff-630a119c3743)
 
 - 🧠 I’m  such kind of person who's truely love coding  and problem solving    with consistency 🔁
-- 💻 currently pursuing a Tag (Bachelors of computer applications) 🧑‍🎓 
-- 💞️ I’m looking to collaborate on software/ website/application developer and share and gain some  extra knowledge as per there experience 
+- 💻 currently pursuing  (Bachelors of computer applications) 🧑‍🎓 
+- 💞️ I’m looking to collaborate with software/ website/application developers and share and gain some  extra knowledge as per there experience 
 - 📫 if  you want to reach me then  visit my linkedin profile or send me a  mail ,i will definitely reply you .
 -  
 Thank you for searching me,😁  its pleasure to me l you searched me on github .  just check my github do practice if you want to do some Great programms
