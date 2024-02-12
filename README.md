@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on software/ website/application developer and share and gain some  extra knowledge as per there experience 
 - 📫 if  you want to reach me then  visit my linkedin profile or send me a  mail ,i will definitely reply you .
 -  
-Thank you for searching me,😁  its pleasure to me l you find me on github .  just check my github do practice if you want to do some annonymous programs
+Thank you for searching me,😁  its pleasure to me l you searched me on github .  just check my github do practice if you want to do some Great programms
 
 CP time :-  11:00 pm to 2:00 am 
 <!---
