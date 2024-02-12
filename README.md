@@ -1,4 +1,4 @@
-- 👋 Hey, human programs  welcome to my profile 🤖
+- 👋 Hey, human programmers  welcome to my profile 🤖
 - 
 - 🧠 I’m  such kind of person who's truely love coding  and problem solving    with consistency 🔁
 - 💻 currently pursuing a Tag (Bachelors of computer applications) 🧑‍🎓 
