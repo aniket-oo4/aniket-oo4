@@ -3,11 +3,11 @@
 <h1 align="center">Hello Programmers 👋, I'm Aniket varkhade</h1>
 <h3 align="center">A Fully passionate fullstack developer from pune,India</h3>
 
-<img  align="centre" alt="coding" width="400" src="https://media.tenor.com/y6HKvDu42NkAAAAi/technologist-desktop.gif">
+<img  align="centre" alt="coding" width="500" height="400" src="https://media.tenor.com/y6HKvDu42NkAAAAi/technologist-desktop.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniket-oo4&label=Profile%20views&color=0e75b6&style=flat" alt="aniket-oo4" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniket-oo4" alt="aniket-oo4" /></a> </p>
-
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aniket-oo4" alt="aniket-oo4" /></a> </p>
+-->
 - 🔭 I’m currently working on [Tech Tube](https://github.com/aniket-oo4/TechTube)
 
 - 🌱 I’m currently learning **full stack java , spring ,hibernate ,VB.Net ,C#,ASP.NET,javascript, jsp and many more**
