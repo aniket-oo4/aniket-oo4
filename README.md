@@ -2,7 +2,7 @@
 
 <h1 align="center">Hello Programmers 👋, I'm Aniket varkhade</h1>
 <h3 align="center">A Fully passionate fullstack developer from pune,India</h3>
-
+<h2 align="center"> Major: Microsofts.net Technologies </h2>
 <img  align="centre" alt="coding" width="500" height="400" src="https://media.tenor.com/y6HKvDu42NkAAAAi/technologist-desktop.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniket-oo4&label=Profile%20views&color=0e75b6&style=flat" alt="aniket-oo4" /> </p>
 
