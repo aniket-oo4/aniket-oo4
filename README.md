@@ -2,7 +2,7 @@
 
 <h1 align="center">Hello Programmers 👋, I'm Aniket varkhade</h1>
 <h3 align="center">A Fully passionate fullstack developer from pune,India</h3>
-<h2 align="center"> Major: Microsofts.net Technologies </h2>
+<h2 align="center"> Skilled In  .Net ,C#, ASP.Net Web APIs, MS SQL ,VB.Net Javascript , JQuery , C++ , Java ,HTML , Css ,Bootstrap  </h2>
 <img  align="centre" alt="coding" width="500" height="400" src="https://media.tenor.com/y6HKvDu42NkAAAAi/technologist-desktop.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aniket-oo4&label=Profile%20views&color=0e75b6&style=flat" alt="aniket-oo4" /> </p>
 
@@ -10,21 +10,21 @@
 -->
 - 🔭 I’m currently working on [Leave Application Management Module of HRM product](http://leavemanager.somee.com/LeaveManagementUI/LeaveApplicationManager/admin/login.html)
 
-- 🌱 I’m currently learning **full stack java , spring ,hibernate ,VB.Net ,C#,ASP.NET,javascript, jsp and many more**
+- 🌱 I’m currently learning **C#,ASP.NET Web Api's, javascript, TypeScript , and  also goind to Start learning  NgFramework**
 
-- 🤝 I’m looking for help with **Farm Manager**
+- 🤝  I'm Experienced in   **Full Stack Web Dev using   technologies as C# , ASp.net , MS SQL , javascript,JQuery , HTML, Css and other .Net compatible technologies     **
 
 - 👨‍💻 All of my projects are available at [https://github.com/aniket-oo4/](https://github.com/aniket-oo4/)
 
 - 📝 I regularly work on some modifications on GFG [https://auth.geeksforgeeks.org/user/aniket_oo4](https://auth.geeksforgeeks.org/user/aniket_oo4)
 
-- 💬 I will help you if you have doubts on following topics **c++, java ,advanced java , oops, Stl**
+- 💬 I will help you if you have doubts on following topics **c#, Basic Software Architecture ,DataBase Designs  ,MVC , REST API, Application Security , Authentication&Authorization,**
 
 - 📫 You can easily reach me through my email:- **aniket.oo4.work@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/aniket-varkhade-253561242/](https://www.linkedin.com/in/aniket-varkhade-253561242/)
 
-- ⚡ Info **- 🧠 I’m such kind of person who's truely love coding and problem solving with consistency 🔁 - 💻 currently pursuing (Bachelors of computer applications) 🧑‍🎓 - 💞️ I’m looking to collaborate with software/ website/application developers and share and gain some extra knowledge as per there experience**
+- ⚡ Info **- 🧠 I Just Want to Work On Amazing Products which helps the Community , Thats The reason I'm On the path to become : coder --> Programmer --> Software Architect . Apart from all I would Like to Practice  Data Structures And Algorightms By Implementing them on Realworld as well as Leetcode😁 problems (Rule : Be consistent and Revise the concepts) 🔁 - 💻 along with Full time Job  currently pursuing (Masters of computer applications) 🧑‍🎓 -  I’m looking to collaborate with software/ website/application developers that they will guide me in the System Design for different kind of applications**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
