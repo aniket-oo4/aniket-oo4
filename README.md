@@ -43,4 +43,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aniket-oo4&show_icons=true&locale=en" alt="aniket-oo4" /></p>
 
-<p><img align="center" src="https://www.linkedin.com/in/aniket-varkhade-253561242&" alt="aniket-oo4" /></p>
+<!--<p><img align="center" src="&" alt="aniket-oo4" /></p>-->
