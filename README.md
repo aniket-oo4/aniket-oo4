@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **C#,ASP.NET Web Api's, javascript, TypeScript , and  also goind to Start learning  NgFramework**
 
-- 🤝  I'm Experienced in   **Full Stack Web Dev using   technologies as C# , ASp.net , MS SQL , javascript,JQuery , HTML, Css and other .Net compatible technologies     **
+- 🤝  I'm Experienced in   **Full Stack Web Dev using   technologies as C# , ASp.net , T-SQL , javascript,JQuery , HTML, Css and other .Net compatible technologies     **
 
 - 👨‍💻 All of my projects are available at [https://github.com/aniket-oo4/](https://github.com/aniket-oo4/)
 
